@@ -1,1 +1,9 @@
-
+cff-version: 1.2.0
+title: "G₂-Force Hypothesis"
+message: "Please cite this work using the DOI"
+authors:
+  - family-names: Okupski
+    given-names: Arkadiusz
+date-released: 2025-04-24
+license: MIT
+url: "https://github.com/ArkOkupski-WAT/G2-Force-Hypothesis"
