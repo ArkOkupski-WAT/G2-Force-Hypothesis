@@ -5,3 +5,5 @@ Peer-reviewed version in preparation.
 # G₂-Force Hypothesis  
 **Author**: [Arkadiusz Okupski](https://orcid.org/0009-0003-7586-2246)  
 **DOI**: [10.5281/zenodo.XXXXXX](https://doi.org/10.5281/zenodo.XXXXXX)  
+## Acknowledgments  
+The author acknowledges the intellectual support of **DeepSeek Chat** (AI research assistant) during the conceptual development of this theory.  
