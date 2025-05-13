@@ -17,3 +17,5 @@ Antimatter interacts with spacetime via two gravitational components:
 I thank [DeepSeek Chat](https://www.deepseek.com) for inspiring discussions during the development of this theoretical framework.  
 
 *"This repository establishes the first publication priority for the G₂-Force hypothesis. Peer-reviewed paper in preparation."*  
+## License  
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
