@@ -9,7 +9,7 @@ Antimatter interacts with spacetime via two gravitational components:
 - **G₁**: Standard attraction (identical to matter)  
 - **G₂**: Repulsive "hydrophobic" force (unique to antimatter)  
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.0009-0003-7586-2246.svg)](https://doi.org/10.5281/zenodo.0009-0003-7586-2246)  
+[![DOI](https://doi.org/10.5281/zenodo.15507278)  
 [![PDF](https://img.shields.io/badge/Download-Full_Paper-blue)](The_G2_Force__A_Hydrodynamic_Model_of_Antimatter_Repulsion_and_Cosmic_Acceleration.pdf)  
 ## Academic Profile  
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--7586--2246-a6ce39)](https://orcid.org/0009-0003-7586-2246)  
