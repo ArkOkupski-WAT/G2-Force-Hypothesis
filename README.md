@@ -1,5 +1,7 @@
 📌 **Latest Update:** May 2025 – LaTeX formatting improved ([see changelog](#changelog)).  
-📥 **Download:** [PDF](The_G2_Force_Hypothesis.pdf) | [arXiv](https://arxiv.org/abs/...)  
+📥 **Download:**  
+- [Latest PDF (May 2025)](https://github.com/ArkOkupski-WAT/G2-Force-Hypothesis/raw/main/The_G2_Force_Hypothesis.pdf)   
+- [arXiv submission](https://arxiv.org/abs/...)   
 
 <div id="changelog"></div>
 # G₂-Force: Hydrodynamic Model of Antimatter Repulsion  
