@@ -1,3 +1,7 @@
+📌 **Latest Update:** May 2025 – LaTeX formatting improved ([see changelog](#changelog)).  
+📥 **Download:** [PDF](The_G2_Force_Hypothesis.pdf) | [arXiv](https://arxiv.org/abs/...)  
+
+<div id="changelog"></div>
 # G₂-Force: Hydrodynamic Model of Antimatter Repulsion  
 # G2-Force Hypothesis 
 
@@ -23,4 +27,5 @@ I thank [DeepSeek Chat](https://www.deepseek.com) for inspiring discussions duri
 
 *"This repository establishes the first publication priority for the G₂-Force hypothesis. Peer-reviewed paper in preparation."*  
 ## License  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+ 
