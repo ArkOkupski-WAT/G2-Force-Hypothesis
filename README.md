@@ -8,7 +8,7 @@
 **Note:** The PDF file was updated on 27.05.2025 (improved formatting and clarity),  
 but the **core scientific content of the hypothesis remains unchanged**.  
 
-- For the latest version: [Download PDF](link_do_pliku.pdf)  
+- For the latest version: [Download PDF](https://github.com/ArkOkupski-WAT/G2-Force-Hypothesis/raw/main/The_G2_Force__A_Hydrodynamic_Model_of_Antimatter_Repulsion_and_Cosmic_Acceleration.pdf)  
 - Archived versions: [v1](link_do_starego_pliku.pdf) (if applicable)  
 **Author**: [Arkadiusz Okupski](https://orcid.org/0009-0003-7586-2246)  
 **First published**: 2025-04-24  
