@@ -9,7 +9,9 @@
 but the **core scientific content of the hypothesis remains unchanged**.  
 
 - For the latest version: [Download PDF](https://github.com/ArkOkupski-WAT/G2-Force-Hypothesis/raw/main/The_G2_Force__A_Hydrodynamic_Model_of_Antimatter_Repulsion_and_Cosmic_Acceleration.pdf)  
-- Archived versions: [v1](link_do_starego_pliku.pdf) (if applicable)  
+## Archived versions  
+- [v1.0.0 (GitHub)](https://github.com/ArkOkupski-WAT/G2-Force-Hypothesis/releases/tag/v1.0.0)  
+- [v1.0.0 (Zenodo)](https://doi.org/10.5281/zenodo.15507278)    
 **Author**: [Arkadiusz Okupski](https://orcid.org/0009-0003-7586-2246)  
 **First published**: 2025-04-24  
 **License**: [MIT](LICENSE)  
