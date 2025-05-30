@@ -31,4 +31,4 @@ I thank [DeepSeek Chat](https://www.deepseek.com) for inspiring discussions duri
 ## License  
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
- [👉 **Always download the LATEST version**](https://github.com/ArkOkupski-WAT/G2-Force-Hypothesis/releases/latest/download/The_G2_Force__A_Hydrodynamic_Model_of_Antimatter_Repulsion_and_Cosmic_Acceleration.pdf)
+ [👉 **Always download the LATEST version**](https://github.com/ArkOkupski-WAT/G2-Force-Hypothesis/raw/main/The_G2_Force__A_Hydrodynamic_Model_of_Antimatter_Repulsion_and_Cosmic_Acceleration.pdf)
