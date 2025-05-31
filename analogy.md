@@ -27,3 +27,9 @@ The hypothesis was inspired by an experiment with a **water surface**:
 - [Antihydrogen analog: PS particles and pin](https://www.youtube.com/watch?v=9MqbLCjMMBc)
 - [Bulk antimatter analog: PS sphere and pin](https://www.youtube.com/watch?v=Ped8jGURH9U)
    - *Note*: The pin naturally centers itself due to minimized potential energy.
+ 
+   - ## From 2D to 4D Implications  
+If we extend this 2D analogy to a **4D universe (3 space + 1 time)**, it suggests the existence of two gravitational components:  
+- **G₁**: Standard attraction (GR),  
+- **G₂**: A force arising from the interaction of mass (M or A) with spacetime (*without viscous effects*).  
+**Crucial insight**: The smaller the mass (M or A), the higher the **G₂/G₁ ratio** – potentially explaining phenomena like dark energy at cosmic scales.  
