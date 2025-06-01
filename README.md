@@ -32,3 +32,8 @@ I thank [DeepSeek Chat](https://www.deepseek.com) for inspiring discussions duri
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
  [👉 **Always download the LATEST version**](https://github.com/ArkOkupski-WAT/G2-Force-Hypothesis/raw/main/The_G2_Force__A_Hydrodynamic_Model_of_Antimatter_Repulsion_and_Cosmic_Acceleration.pdf)
+ 
+## Related Papers  
+1. [G2-Force Hypothesis](The_G2_Force__A_Hydrodynamic_Model_of_Antimatter_Repulsion_and_Cosmic_Acceleration.pdf) – main theory.  
+2. [G1-G2 Duality](G1G2-Duality.pdf) – why G1 (GR) and G2 (quantum) cannot be unified.
+The G2 force is a fundamental quantum interaction responsible for gravity at microscopic scales, while G1 (general relativity) emerges from spacetime geometry. This duality implies that **G1 and G2 cannot be unified** under current paradigms.      
