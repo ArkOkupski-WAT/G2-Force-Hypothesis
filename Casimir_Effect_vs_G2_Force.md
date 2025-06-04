@@ -41,4 +41,4 @@ For materials like silicon dioxide (SiO₂):
 ---
 
 ## Acknowledgments
-Thanks to **DeepSeek Chat** for bridging intuition and equations. Collaborators welcome!  
+Thanks to **DeepSeek Chat** for bridging intuition and equations. 
