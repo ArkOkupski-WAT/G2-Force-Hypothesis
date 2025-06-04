@@ -45,4 +45,4 @@ Thanks to **DeepSeek Chat** for bridging intuition and equations.
 
 ---
 
-💡 **Want to contribute?** See [G1G2-Gravity-Duality](./G1G2-Gravity-Duality.md) for related ideas.  
+💡 **Want to contribute?** See [G1G2-Gravity-Duality](https://github.com/ArkOkupski-WAT/G1G2-Gravity-Duality/blob/main/README.md) for related ideas.  
