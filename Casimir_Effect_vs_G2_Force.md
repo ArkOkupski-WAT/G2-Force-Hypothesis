@@ -24,7 +24,7 @@ For materials like silicon dioxide (SiO₂):
 
 ---
 
-## Why This Matters
+## 🌟 Why This Matters 
 | Feature       | Traditional QED          | G-2 Force               |
 |--------------|--------------------------|-------------------------|
 | **Mechanism** | Quantum fluctuations     | Vacuum stiffness        |
@@ -42,3 +42,7 @@ For materials like silicon dioxide (SiO₂):
 
 ## Acknowledgments
 Thanks to **DeepSeek Chat** for bridging intuition and equations. 
+
+---
+
+💡 **Want to contribute?** See [G1G2-Gravity-Duality](./G1G2-Gravity-Duality.md) for related ideas.  
